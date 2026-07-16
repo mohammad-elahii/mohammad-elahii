@@ -90,16 +90,6 @@ Computer Engineering Student • Android Developer • Algorithm Enthusiast
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=mohammad-elahii&theme=tokyonight&margin-w=15&row=2&column=4"/>
-
-</p>
-
----
-
 # 📈 Contribution Graph
 
 <p align="center">
@@ -109,54 +99,9 @@ Computer Engineering Student • Android Developer • Algorithm Enthusiast
 </p>
 
 ---
-
-# 📂 Featured Projects
-
-### 📱 CourseMatch
-
-Android application for viewing weekly schedules, classmates, and course planning.
-
----
-
-### 🎬 Movino
-
-Movie discovery app built with Kotlin, Jetpack Compose, Ktor, and Material Design.
-
----
-
-### 🌦 UV Skin Care
-
-Weather application providing UV index monitoring and sunscreen recommendations.
-
----
-
-### 🎡 Fortune Wheel
-
-Flutter Web application deployed with Firebase Hosting.
-
----
-
-# 📚 Currently Learning
-
-- Advanced Jetpack Compose
-- Android Architecture
-- Design Patterns
-- Competitive Programming
-- Machine Learning
-- Pathfinding Algorithms
-
----
-
-# 📫 Reach Me
-
-- 📧 YOUR_EMAIL
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
-
----
-
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=mohammad-elahii&label=Profile+Views&color=0e75b6&style=flat"/>
 
 </p>
 
