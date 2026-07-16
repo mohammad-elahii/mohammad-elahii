@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm YOUR_NAME</h1>
+<h1 align="center">Hi 👋, I'm Mohammad Elahi</h1>
 
 <h3 align="center">
-Computer Engineering Student • Android Developer • Kotlin Enthusiast
+Computer Engineering Student • Android Developer • Algorithm Enthusiast
 </h3>
 
 <p align="center">
@@ -15,9 +15,8 @@ Computer Engineering Student • Android Developer • Kotlin Enthusiast
 - 🎓 Computer Engineering Student
 - 📱 Android Developer using **Kotlin & Jetpack Compose**
 - 💙 Experienced with **Flutter**
-- 💻 Interested in **Algorithms & Competitive Programming**
-- 🧠 Currently learning **AI & Machine Learning**
-- 🌱 Always improving my software engineering skills
+- 💻 Interested in ** Pathfinding Algorithms**
+- 🌱 Always trying to improve my software engineering skills
 
 ---
 
@@ -25,15 +24,15 @@ Computer Engineering Student • Android Developer • Kotlin Enthusiast
 
 <p align="left">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/mohammad-elahi-5571a6422/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:mohammad.h.elahii@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/mohammad-elahii">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
@@ -47,7 +46,7 @@ Computer Engineering Student • Android Developer • Kotlin Enthusiast
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=kotlin,java,dart,cpp,python"/>
+<img src="https://skillicons.dev/icons?i=kotlin,dart,cpp"/>
 
 </p>
 
@@ -63,15 +62,7 @@ Computer Engineering Student • Android Developer • Kotlin Enthusiast
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea"/>
-
-</p>
-
-### Learning
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,androidstudio"/>
 
 </p>
 
@@ -150,15 +141,13 @@ Flutter Web application deployed with Firebase Hosting.
 - Advanced Jetpack Compose
 - Android Architecture
 - Design Patterns
-- Competitive Programming
-- Machine Learning
 - Pathfinding Algorithms
 
 ---
 
 # 📫 Reach Me
 
-- 📧 YOUR_EMAIL
+- 📧 Mohammad.h.elahii@gmail.com
 - 💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
 
 ---
