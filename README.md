@@ -72,9 +72,9 @@ Computer Engineering Student • Android Developer • Algorithm Enthusiast
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mohammad-elahii&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-elahii&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -84,7 +84,7 @@ Computer Engineering Student • Android Developer • Algorithm Enthusiast
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=mohammad-elahii&theme=tokyonight"/>
 
 </p>
 
@@ -94,7 +94,7 @@ Computer Engineering Student • Android Developer • Algorithm Enthusiast
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&margin-w=15&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=mohammad-elahii&theme=tokyonight&margin-w=15&row=2&column=4"/>
 
 </p>
 
@@ -104,7 +104,7 @@ Computer Engineering Student • Android Developer • Algorithm Enthusiast
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammad-elahii&theme=tokyo-night"/>
 
 </p>
 
@@ -141,13 +141,15 @@ Flutter Web application deployed with Firebase Hosting.
 - Advanced Jetpack Compose
 - Android Architecture
 - Design Patterns
+- Competitive Programming
+- Machine Learning
 - Pathfinding Algorithms
 
 ---
 
 # 📫 Reach Me
 
-- 📧 Mohammad.h.elahii@gmail.com
+- 📧 YOUR_EMAIL
 - 💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
 
 ---
