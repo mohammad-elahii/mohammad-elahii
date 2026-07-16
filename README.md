@@ -5,22 +5,22 @@ Computer Engineering Student • Android Developer • Algorithm Enthusiast
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Android+Developer;Jetpack+Compose+Developer;Flutter+Developer;Competitive+Programmer;Learning+AI+and+Machine+Learning" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Android+Developer;Jetpack+Compose+Developer;Flutter+Developer;Competitive+Programmer;" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
-- 🎓 Computer Engineering Student
-- 📱 Android Developer using **Kotlin & Jetpack Compose**
-- 💙 Experienced with **Flutter**
-- 💻 Interested in ** Pathfinding Algorithms**
-- 🌱 Always trying to improve my software engineering skills
+-  Computer Engineering Student
+-  Android Developer using **Kotlin & Jetpack Compose**
+-  Experienced with **Flutter**
+-  Interested in ** Pathfinding Algorithms**
+-  Always trying to improve my software engineering skills
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 <p align="left">
 
@@ -40,7 +40,7 @@ Computer Engineering Student • Android Developer • Algorithm Enthusiast
 
 ---
 
-# 💻 Tech Stack
+#  Tech Stack
 
 ### Languages
 
@@ -68,7 +68,7 @@ Computer Engineering Student • Android Developer • Algorithm Enthusiast
 
 ---
 
-# 📊 GitHub Stats
+# GitHub Stats
 
 <p align="center">
 
@@ -80,7 +80,7 @@ Computer Engineering Student • Android Developer • Algorithm Enthusiast
 
 ---
 
-# 🔥 GitHub Streak
+# GitHub Streak
 
 <p align="center">
 
@@ -90,7 +90,7 @@ Computer Engineering Student • Android Developer • Algorithm Enthusiast
 
 ---
 
-# 📈 Contribution Graph
+# Contribution Graph
 
 <p align="center">
 
