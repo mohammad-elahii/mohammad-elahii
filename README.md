@@ -5,7 +5,7 @@ Computer Engineering Student • Android Developer • Algorithm Enthusiast
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Android+Developer;Jetpack+Compose+Developer;Flutter+Developer;Competitive+Programmer;" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Android+Developer;Jetpack+Compose+Developer;Flutter+Developer;Competitive+Programmer;Learning+AI+and+Machine+Learning" />
 </p>
 
 ---
@@ -15,7 +15,7 @@ Computer Engineering Student • Android Developer • Algorithm Enthusiast
 -  Computer Engineering Student
 -  Android Developer using **Kotlin & Jetpack Compose**
 -  Experienced with **Flutter**
--  Interested in **Pathfinding Algorithms**
+-  Interested in ** Pathfinding Algorithms**
 -  Always trying to improve my software engineering skills
 
 ---
@@ -54,7 +54,7 @@ Computer Engineering Student • Android Developer • Algorithm Enthusiast
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=androidstudio,flutter,firebase"/>
+<img src="https://skillicons.dev/icons?i=jetpackcompose,flutter,firebase"/>
 
 </p>
 
