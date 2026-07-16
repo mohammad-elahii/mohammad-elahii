@@ -18,10 +18,6 @@ Computer Engineering Student • Android Developer • Algorithm Enthusiast
 -  Interested in **Pathfinding Algorithms**
 -  Always trying to improve my software engineering skills
 
----
-
-##  Connect With Me
-
 <p align="left">
 
 <a href="https://www.linkedin.com/in/mohammad-elahi-5571a6422/">
