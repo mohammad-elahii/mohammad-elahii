@@ -15,7 +15,7 @@ Computer Engineering Student • Android Developer • Algorithm Enthusiast
 -  Computer Engineering Student
 -  Android Developer using **Kotlin & Jetpack Compose**
 -  Experienced with **Flutter**
--  Interested in ** Pathfinding Algorithms**
+-  Interested in **Pathfinding Algorithms**
 -  Always trying to improve my software engineering skills
 
 ---
