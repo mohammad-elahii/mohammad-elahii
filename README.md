@@ -77,6 +77,19 @@ Computer Engineering Student • Android Developer • Algorithm Enthusiast
 </p>
 
 ---
+---
+
+## Contribution Breakdown
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohammad-elahii&theme=tokyonight" alt="Contribution Details Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mohammad-elahii&theme=tokyonight&utcOffset=3.5" alt="Productive Time Graph" />
+</p>
+
+---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mohammad-elahii&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
