@@ -73,17 +73,6 @@ Computer Engineering Student • Android Developer • Algorithm Enthusiast
 <p align="center">
   <img src="https://metrics.lecoq.io/mohammad-elahii?template=classic&base=activity,community&base.indepth=false&config.timezone=Asia%2FTehran" alt="Activity Breakdown Radar Chart" />
 </p>
-
----
-
-## Repository Stargazers
-
-<p align="center">
-  <a href="https://github.com/drknzz/stargazers">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=drknzz&repo=stargazers&theme=tokyonight" alt="Stargazers Repo" />
-  </a>
-</p>
-
 ---
 
 <p align="center">
