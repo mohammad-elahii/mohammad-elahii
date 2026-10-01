@@ -68,25 +68,20 @@ Computer Engineering Student • Android Developer • Algorithm Enthusiast
 
 ---
 
-## Contribution Graph
+## Activity Radar & Contribution Types
 
 <p align="center">
-  <a href="https://github.com/mohammad-elahii">
-    <img src="https://ghchart.rshah.org/7aa5ff/mohammad-elahii" alt="Mohammad's GitHub Contribution Graph" />
+  <img src="https://metrics.lecoq.io/mohammad-elahii?template=classic&base=activity,community&base.indepth=false&config.timezone=Asia%2FTehran" alt="Activity Breakdown Radar Chart" />
+</p>
+
+---
+
+## Repository Stargazers
+
+<p align="center">
+  <a href="https://github.com/drknzz/stargazers">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=drknzz&repo=stargazers&theme=tokyonight" alt="Stargazers Repo" />
   </a>
-</p>
-
----
----
-
-## Contribution Breakdown
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohammad-elahii&theme=tokyonight" alt="Contribution Details Graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mohammad-elahii&theme=tokyonight&utcOffset=3.5" alt="Productive Time Graph" />
 </p>
 
 ---
