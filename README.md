@@ -5,104 +5,83 @@ Computer Engineering Student • Android Developer • Algorithm Enthusiast
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Android+Developer;Jetpack+Compose+Developer;Flutter+Developer;Competitive+Programmer;Learning+AI+and+Machine+Learning" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Android+Developer;Jetpack+Compose+Developer;Flutter+Developer;Competitive+Programmer;Learning+AI+and+Machine+Learning" alt="Typing SVG" />
 </p>
 
 ---
 
-##  About Me
+## About Me
 
--  Computer Engineering Student
--  Android Developer using **Kotlin & Jetpack Compose**
--  Experienced with **Flutter**
--  Interested in **Pathfinding Algorithms**
--  Always trying to improve my software engineering skills
+- 🎓 Computer Engineering Student
+- 📱 Android Developer using **Kotlin & Jetpack Compose**
+- ⚡ Experienced with **Flutter**
+- 🧩 Interested in **Pathfinding Algorithms**
+- 🚀 Always trying to improve my software engineering skills
 
 <p align="left">
-
-<a href="https://www.linkedin.com/in/mohammad-elahi-5571a6422/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:mohammad.h.elahii@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/mohammad-elahii">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
+  <a href="https://www.linkedin.com/in/mohammad-elahi-5571a6422/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:mohammad.h.elahii@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/mohammad-elahii">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
 
 ---
 
-#  Tech Stack
+## Tech Stack
 
 ### Languages
-
 <p>
-
-<img src="https://skillicons.dev/icons?i=kotlin,dart,cpp"/>
-
+  <img src="https://skillicons.dev/icons?i=kotlin,dart,cpp" alt="Languages" />
 </p>
 
 ### Mobile Development
-
 <p>
-
-<img src="https://skillicons.dev/icons?i=androidstudio,flutter,firebase"/>
-
+  <img src="https://skillicons.dev/icons?i=androidstudio,flutter,firebase" alt="Mobile Development" />
 </p>
 
 ### Tools
-
 <p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,androidstudio"/>
-
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" alt="Tools" />
 </p>
 
 ---
 
-#  GitHub Stats
+## GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mohammad-elahii&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-elahii&layout=compact&theme=tokyonight"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mohammad-elahii&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-elahii&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
 
-# GitHub Streak
+## GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=mohammad-elahii&theme=tokyonight"/>
-
+  <img src="https://streak-stats.demolab.com?user=mohammad-elahii&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
 
-# Contribution Graph
+## Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammad-elahii&theme=tokyo-night"/>
-
+  <a href="https://github.com/mohammad-elahii">
+    <img src="https://ghchart.rshah.org/7aa5ff/mohammad-elahii" alt="Mohammad's GitHub Contribution Graph" />
+  </a>
 </p>
 
 ---
+
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=mohammad-elahii&label=Profile+Views&color=0e75b6&style=flat"/>
-
+  <img src="https://komarev.com/ghpvc/?username=mohammad-elahii&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <p align="center">
-
 ⭐ If you like my work, consider starring one of my repositories!
-
 </p>
